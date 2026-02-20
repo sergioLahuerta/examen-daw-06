@@ -8,7 +8,3 @@ Fichero docker-compose.yaml
 ![alt text](Temperaturas.png)
 
 
-# Examen Despliegues Web
-
-Carpeta Serverless
-
