@@ -21,7 +21,7 @@ services:
     container_name: temperaturas-frontend
     restart: always
     ports:
-      - "3000:3000"
+      - "3006:3006"
     # Aquí está la clave: le decimos dónde está el backend por su nombre de servicio
     environment:
       - TEMP_SERVER=temperaturas-backend:5000
