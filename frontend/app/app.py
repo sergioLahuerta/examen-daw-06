@@ -56,4 +56,4 @@ def temperatura(codigo):
  
     return render_template("inicio.html",noserver=noserver,lista=[],datos=datos,server=socket.gethostname())
 
-app.run('0.0.0.0',3000,debug=True)
+app.run('0.0.0.0',3006,debug=True)
